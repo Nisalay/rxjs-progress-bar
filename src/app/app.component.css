@@ -1,0 +1,14 @@
+.loader {
+  height: 100px;
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.progress {
+  height: 100%;
+  background: #333;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgb(255, 255, 255);
+}
